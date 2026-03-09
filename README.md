@@ -1,2 +1,2 @@
 # tirutomo.github.io
-## Link|
+## Link|https://tirutomo.github.io/blog/index.html
